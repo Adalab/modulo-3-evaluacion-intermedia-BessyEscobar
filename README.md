@@ -1,4 +1,4 @@
-# Proyecto plantilla
+# Frases de Friends
 
 Intermediate exercise React.
 
