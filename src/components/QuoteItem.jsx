@@ -4,7 +4,7 @@ function QuoteItem( { quote, Character}  ) {
 
     return (
       <>
-        <li className="">But they don`t know that we know they know we know! - Phoebe</li>
+        <li className=""> {quote} {Character} </li>
         <li className="">I got off the plane. - Rachel</li>
         <li className="">We were on a break! - Ross</li>
         <li className="">Here come the meat sweats. - Joey</li>
